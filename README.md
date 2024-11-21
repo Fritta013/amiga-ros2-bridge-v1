@@ -3,7 +3,7 @@
 Changes made: 
 
 
-* I got rid of all the files are not essential to run the pkg 
+* files that are not essential to run the pkg are deleted 
 * I deleted the cmake file because according to ros2 humble official page, Python packages in ROS 2 do not use CMake, so delete the CMakeLists.txt. However i put it outside of src folder just in case (it's been adjusted to ros2) 
 * Added setup.py, essential for ros2 
 * Added setup.cfg file essential for ros2 
