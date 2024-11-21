@@ -1,6 +1,6 @@
 # amiga-ros2-bridge-v1
 
-Changes made: 
+Changes made, but not limited to these. Some are not mentioned below: 
 
 
 * files that are not essential to run the pkg are deleted 
